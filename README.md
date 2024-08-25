@@ -1,0 +1,2 @@
+# Forex
+Currency Strength Momentum 
